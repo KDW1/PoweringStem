@@ -1,0 +1,2613 @@
+[
+    {
+        "country": "Afghanistan",
+        "regionId": "17",
+        "countryCode": "AF",
+        "preferredName": "Afghanistan",
+        "region": "Middle East"
+    },
+    {
+        "country": "Albania",
+        "regionId": "2",
+        "countryCode": "AL",
+        "preferredName": "Albania",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Algeria",
+        "regionId": "4",
+        "countryCode": "DZ",
+        "preferredName": "Algeria",
+        "region": "North Africa"
+    },
+    {
+        "country": "Andorra",
+        "regionId": "1",
+        "countryCode": "AD",
+        "preferredName": "Andorra",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Angola",
+        "regionId": "3",
+        "countryCode": "AO",
+        "preferredName": "Angola",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Anguilla",
+        "regionId": "11",
+        "countryCode": "AI",
+        "preferredName": "Anguilla",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Antarctica",
+        "regionId": "1",
+        "countryCode": "AQ",
+        "preferredName": "Antarctica",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Argentina",
+        "regionId": "15",
+        "countryCode": "AR",
+        "preferredName": "Argentina",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Armenia",
+        "regionId": "17",
+        "countryCode": "AM",
+        "preferredName": "Armenia",
+        "region": "Middle East"
+    },
+    {
+        "country": "Aruba",
+        "regionId": "11",
+        "countryCode": "AW",
+        "preferredName": "Aruba",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Australia",
+        "regionId": "16",
+        "countryCode": "AU",
+        "preferredName": "Australia",
+        "region": "Australasia"
+    },
+    {
+        "country": "Austria",
+        "regionId": "1",
+        "countryCode": "AT",
+        "preferredName": "Austria",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Azerbaijan",
+        "regionId": "17",
+        "countryCode": "AZ",
+        "preferredName": "Azerbaijan",
+        "region": "Middle East"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "regionId": "11",
+        "countryCode": "AG",
+        "preferredName": "Antigua and Barbuda",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Aland Islands",
+        "regionId": "1",
+        "countryCode": "AX",
+        "preferredName": "Aland Islands",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Netherlands Antilles ",
+        "regionId": "11",
+        "countryCode": "AN� ",
+        "preferredName": "Netherlands Antilles ",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Saudi Arabia",
+        "regionId": "17",
+        "countryCode": "SA",
+        "preferredName": "Saudi Arabia",
+        "region": "Middle East"
+    },
+    {
+        "country": "South Africa",
+        "regionId": "6",
+        "countryCode": "ZA",
+        "preferredName": "South Africa",
+        "region": "Southern Africa"
+    },
+    {
+        "country": "American Samoa",
+        "regionId": "16",
+        "countryCode": "AS",
+        "preferredName": "American Samoa",
+        "region": "Australasia"
+    },
+    {
+        "country": "Central African Republic",
+        "regionId": "3",
+        "countryCode": "CF",
+        "preferredName": "Central African Republic",
+        "region": "Central Africa"
+    },
+    {
+        "country": "United Arab Emirates",
+        "regionId": "17",
+        "countryCode": "AE",
+        "preferredName": "United Arab Emirates",
+        "region": "Middle East"
+    },
+    {
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "regionId": "7",
+        "countryCode": "SH",
+        "preferredName": "Saint Helena, Ascension and Tristan da Cunha",
+        "region": "West Africa"
+    },
+    {
+        "country": "American Virgin Islands",
+        "regionId": "14",
+        "countryCode": "VI",
+        "preferredName": "American Virgin Islands",
+        "region": "South America (trop)"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "regionId": "2",
+        "countryCode": "BA",
+        "preferredName": "Bosnia and Herzegovina",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "regionId": "11",
+        "countryCode": "TT",
+        "preferredName": "Trinidad and Tobago",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Turks and Caicos",
+        "regionId": "11",
+        "countryCode": "TC",
+        "preferredName": "Turks and Caicos",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "regionId": "3",
+        "countryCode": "ST",
+        "preferredName": "Sao Tome and Principe",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "regionId": "11",
+        "countryCode": "KN",
+        "preferredName": "Saint Kitts and Nevis",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "regionId": "12",
+        "countryCode": "PM",
+        "preferredName": "Saint Pierre and Miquelon",
+        "region": "North America"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "regionId": "16",
+        "countryCode": "HM",
+        "preferredName": "Heard Island and McDonald Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "regionId": "11",
+        "countryCode": "VC",
+        "preferredName": "Saint Vincent and the Grenadines",
+        "region": "Caribbean"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands|South Sandwich Islands",
+        "regionId": "15",
+        "countryCode": "GS",
+        "preferredName": "South Georgia and the South Sandwich Islands",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Bahamas",
+        "regionId": "11",
+        "countryCode": "BS",
+        "preferredName": "Bahamas",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Bahrain",
+        "regionId": "17",
+        "countryCode": "BH",
+        "preferredName": "Bahrain",
+        "region": "Middle East"
+    },
+    {
+        "country": "Bangladesh",
+        "regionId": "10",
+        "countryCode": "BD",
+        "preferredName": "Bangladesh",
+        "region": "South Asia"
+    },
+    {
+        "country": "Barbados",
+        "regionId": "11",
+        "countryCode": "BB",
+        "preferredName": "Barbados",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Belarus",
+        "regionId": "2",
+        "countryCode": "BY",
+        "preferredName": "Belarus",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Belgium",
+        "regionId": "1",
+        "countryCode": "BE",
+        "preferredName": "Belgium",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Belize",
+        "regionId": "13",
+        "countryCode": "BZ",
+        "preferredName": "Belize",
+        "region": "Central America"
+    },
+    {
+        "country": "Benin",
+        "regionId": "7",
+        "countryCode": "BJ",
+        "preferredName": "Benin",
+        "region": "West Africa"
+    },
+    {
+        "country": "Bermuda",
+        "regionId": "11",
+        "countryCode": "BM",
+        "preferredName": "Bermuda",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Bhutan",
+        "regionId": "10",
+        "countryCode": "BT",
+        "preferredName": "Bhutan",
+        "region": "South Asia"
+    },
+    {
+        "country": "Bolivia",
+        "regionId": "14",
+        "countryCode": "BO",
+        "preferredName": "Bolivia",
+        "region": "South America (trop)"
+    },
+    {
+        "country": "Botswana",
+        "regionId": "6",
+        "countryCode": "BW",
+        "preferredName": "Botswana",
+        "region": "Southern Africa"
+    },
+    {
+        "country": "Brazil",
+        "regionId": "14",
+        "countryCode": "BR",
+        "preferredName": "Brazil",
+        "region": "South America (trop)"
+    },
+    {
+        "country": "Bulgaria",
+        "regionId": "2",
+        "countryCode": "BG",
+        "preferredName": "Bulgaria",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Burma",
+        "regionId": "8",
+        "countryCode": "MM",
+        "preferredName": "Burma",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Burundi",
+        "regionId": "5",
+        "countryCode": "BI",
+        "preferredName": "Burundi",
+        "region": "East Africa"
+    },
+    {
+        "country": "Bouvet Island",
+        "regionId": "1",
+        "countryCode": "BV",
+        "preferredName": "Bouvet Island",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Brunei Darussalam",
+        "regionId": "8",
+        "countryCode": "BN",
+        "preferredName": "Brunei Darussalam",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Burkina-Faso",
+        "regionId": "7",
+        "countryCode": "BF",
+        "preferredName": "Burkina-Faso",
+        "region": "West Africa"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "regionId": "7",
+        "countryCode": "GW",
+        "preferredName": "Guinea-Bissau",
+        "region": "West Africa"
+    },
+    {
+        "country": "Saint Barthelemy",
+        "regionId": "11",
+        "countryCode": "BL",
+        "preferredName": "Saint Barthelemy",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "regionId": "11",
+        "countryCode": "AG",
+        "preferredName": "Antigua and Barbuda",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "regionId": "2",
+        "countryCode": "BA",
+        "preferredName": "Bosnia and Herzegovina",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "British Virgin Islands",
+        "regionId": "11",
+        "countryCode": "VG",
+        "preferredName": "British Virgin Islands",
+        "region": "Caribbean"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "regionId": "5",
+        "countryCode": "IO",
+        "preferredName": "British Indian Ocean Territory",
+        "region": "East Africa"
+    },
+    {
+        "country": "United Kingdom|Great Britain|Northern Ireland",
+        "regionId": "1",
+        "countryCode": "GB",
+        "preferredName": "United Kingdom",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Denmark",
+        "regionId": "1",
+        "countryCode": "DK",
+        "preferredName": "Denmark",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Djibouti",
+        "regionId": "5",
+        "countryCode": "DJ",
+        "preferredName": "Djibouti",
+        "region": "East Africa"
+    },
+    {
+        "country": "Dominica",
+        "regionId": "11",
+        "countryCode": "DM",
+        "preferredName": "Dominica",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Brunei Darussalam",
+        "regionId": "8",
+        "countryCode": "BN",
+        "preferredName": "Brunei Darussalam",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "regionId": "7",
+        "countryCode": "CI",
+        "preferredName": "Cote d'Ivoire",
+        "region": "West Africa"
+    },
+    {
+        "country": "Dominican Republic",
+        "regionId": "11",
+        "countryCode": "DO",
+        "preferredName": "Dominican Republic",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Democratic Republic of the Congo|Zaire",
+        "regionId": "3",
+        "countryCode": "CD",
+        "preferredName": "Democratic Republic of the Congo",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "regionId": "7",
+        "countryCode": "SH",
+        "preferredName": "Saint Helena, Ascension and Tristan da Cunha",
+        "region": "West Africa"
+    },
+    {
+        "country": "Czech Republic|Czechia",
+        "regionId": "2",
+        "countryCode": "CZ",
+        "preferredName": "Czech Republic",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Cape Verde|Cabo Verde",
+        "regionId": "7",
+        "countryCode": "CV",
+        "preferredName": "Cape Verde",
+        "region": "West Africa"
+    },
+    {
+        "country": "Cambodia",
+        "regionId": "8",
+        "countryCode": "KH",
+        "preferredName": "Cambodia",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Cameroon",
+        "regionId": "3",
+        "countryCode": "CM",
+        "preferredName": "Cameroon",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Canada",
+        "regionId": "12",
+        "countryCode": "CA",
+        "preferredName": "Canada",
+        "region": "North America"
+    },
+    {
+        "country": "Chad",
+        "regionId": "3",
+        "countryCode": "TD",
+        "preferredName": "Chad",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Chile",
+        "regionId": "15",
+        "countryCode": "CL",
+        "preferredName": "Chile",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "China",
+        "regionId": "9",
+        "countryCode": "CN",
+        "preferredName": "China",
+        "region": "East Asia"
+    },
+    {
+        "country": "Colombia",
+        "regionId": "15",
+        "countryCode": "CO",
+        "preferredName": "Colombia",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Comoros",
+        "regionId": "5",
+        "countryCode": "KM",
+        "preferredName": "Comoros",
+        "region": "East Africa"
+    },
+    {
+        "country": "Croatia",
+        "regionId": "2",
+        "countryCode": "HR",
+        "preferredName": "Croatia",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Cuba",
+        "regionId": "11",
+        "countryCode": "CU",
+        "preferredName": "Cuba",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Curacao",
+        "regionId": "1",
+        "countryCode": "CW",
+        "preferredName": "Curacao",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Cyprus",
+        "regionId": "17",
+        "countryCode": "CY",
+        "preferredName": "Cyprus",
+        "region": "Middle East"
+    },
+    {
+        "country": "Congo",
+        "regionId": "3",
+        "countryCode": "CG",
+        "preferredName": "Congo",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Cayman Islands",
+        "regionId": "11",
+        "countryCode": "KY",
+        "preferredName": "Cayman Islands",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Christmas Island",
+        "regionId": "16",
+        "countryCode": "CX",
+        "preferredName": "Christmas Island",
+        "region": "Australasia"
+    },
+    {
+        "country": "Coconut Islands",
+        "regionId": "16",
+        "countryCode": "CC",
+        "preferredName": "Coconut Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Cook Islands",
+        "regionId": "16",
+        "countryCode": "CK",
+        "preferredName": "Cook Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Costa Rica",
+        "regionId": "13",
+        "countryCode": "CR",
+        "preferredName": "Costa Rica",
+        "region": "Central America"
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "regionId": "7",
+        "countryCode": "CI",
+        "preferredName": "Cote d'Ivoire",
+        "region": "West Africa"
+    },
+    {
+        "country": "Ivory Coast",
+        "regionId": "7",
+        "countryCode": "CI ",
+        "preferredName": "Ivory Coast",
+        "region": "West Africa"
+    },
+    {
+        "country": "New Caledonia",
+        "regionId": "16",
+        "countryCode": "NC",
+        "preferredName": "New Caledonia",
+        "region": "Australasia"
+    },
+    {
+        "country": "Central African Republic",
+        "regionId": "3",
+        "countryCode": "CF",
+        "preferredName": "Central African Republic",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Turks and Caicos",
+        "regionId": "11",
+        "countryCode": "TC",
+        "preferredName": "Turks and Caicos",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Holy See|Vatican City",
+        "regionId": "1",
+        "countryCode": "VA",
+        "preferredName": "Holy See",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Democratic Republic of the Congo|Zaire",
+        "regionId": "3",
+        "countryCode": "CD",
+        "preferredName": "Democratic Republic of the Congo",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "regionId": "7",
+        "countryCode": "SH",
+        "preferredName": "Saint Helena, Ascension and Tristan da Cunha",
+        "region": "West Africa"
+    },
+    {
+        "country": "Gabon",
+        "regionId": "3",
+        "countryCode": "GA",
+        "preferredName": "Gabon",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Gambia",
+        "regionId": "7",
+        "countryCode": "GM",
+        "preferredName": "Gambia",
+        "region": "West Africa"
+    },
+    {
+        "country": "Germany",
+        "regionId": "1",
+        "countryCode": "DE",
+        "preferredName": "Germany",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Ghana",
+        "regionId": "7",
+        "countryCode": "GH",
+        "preferredName": "Ghana",
+        "region": "West Africa"
+    },
+    {
+        "country": "Gibraltar",
+        "regionId": "11",
+        "countryCode": "GI",
+        "preferredName": "Gibraltar",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Greece",
+        "regionId": "1",
+        "countryCode": "GR",
+        "preferredName": "Greece",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Greenland",
+        "regionId": "1",
+        "countryCode": "GL",
+        "preferredName": "Greenland",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Grenada",
+        "regionId": "11",
+        "countryCode": "GD",
+        "preferredName": "Grenada",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Guadeloupe",
+        "regionId": "11",
+        "countryCode": "GP",
+        "preferredName": "Guadeloupe",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Guam",
+        "regionId": "9",
+        "countryCode": "GU",
+        "preferredName": "Guam",
+        "region": "East Asia"
+    },
+    {
+        "country": "Guatemala",
+        "regionId": "13",
+        "countryCode": "GT",
+        "preferredName": "Guatemala",
+        "region": "Central America"
+    },
+    {
+        "country": "Guernsey",
+        "regionId": "1",
+        "countryCode": "GG",
+        "preferredName": "Guernsey",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Guyana",
+        "regionId": "15",
+        "countryCode": "GY",
+        "preferredName": "Guyana",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Georgia",
+        "regionId": "17",
+        "countryCode": "GE",
+        "preferredName": "Georgia",
+        "region": "Middle East"
+    },
+    {
+        "country": "Guinea",
+        "regionId": "7",
+        "countryCode": "GN",
+        "preferredName": "Guinea",
+        "region": "West Africa"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "regionId": "3",
+        "countryCode": "GQ",
+        "preferredName": "Equatorial Guinea",
+        "region": "Central Africa"
+    },
+    {
+        "country": "French Guinea",
+        "regionId": "15",
+        "countryCode": "GF",
+        "preferredName": "French Guinea",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "regionId": "7",
+        "countryCode": "GW",
+        "preferredName": "Guinea-Bissau",
+        "region": "West Africa"
+    },
+    {
+        "country": "Papua New Guinea",
+        "regionId": "8",
+        "countryCode": "PG",
+        "preferredName": "Papua New Guinea",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "regionId": "11",
+        "countryCode": "VC",
+        "preferredName": "Saint Vincent and the Grenadines",
+        "region": "Caribbean"
+    },
+    {
+        "country": "United Kingdom|Great Britain|Northern Ireland",
+        "regionId": "1",
+        "countryCode": "GB",
+        "preferredName": "United Kingdom",
+        "region": "Western Europe"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands|South Sandwich Islands",
+        "regionId": "15",
+        "countryCode": "GS",
+        "preferredName": "South Georgia and the South Sandwich Islands",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Ecuador",
+        "regionId": "15",
+        "countryCode": "EC",
+        "preferredName": "Ecuador",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Egypt",
+        "regionId": "4",
+        "countryCode": "EG",
+        "preferredName": "Egypt",
+        "region": "North Africa"
+    },
+    {
+        "country": "Eritrea",
+        "regionId": "5",
+        "countryCode": "ER",
+        "preferredName": "Eritrea",
+        "region": "East Africa"
+    },
+    {
+        "country": "Estonia",
+        "regionId": "1",
+        "countryCode": "EE",
+        "preferredName": "Estonia",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Ethiopia",
+        "regionId": "5",
+        "countryCode": "ET",
+        "preferredName": "Ethiopia",
+        "region": "East Africa"
+    },
+    {
+        "country": "El Salvador",
+        "regionId": "13",
+        "countryCode": "SV",
+        "preferredName": "El Salvador",
+        "region": "Central America"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "regionId": "3",
+        "countryCode": "GQ",
+        "preferredName": "Equatorial Guinea",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Eswatini|Swaziland",
+        "regionId": "6",
+        "countryCode": "SZ",
+        "preferredName": "Eswatini",
+        "region": "Southern Africa"
+    },
+    {
+        "country": "East Timor",
+        "regionId": "8",
+        "countryCode": "TL",
+        "preferredName": "East Timor",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "United Arab Emirates",
+        "regionId": "17",
+        "countryCode": "AE",
+        "preferredName": "United Arab Emirates",
+        "region": "Middle East"
+    },
+    {
+        "country": "Timor-Leste|East Timor",
+        "regionId": "8",
+        "countryCode": "TL",
+        "preferredName": "Timor-Leste",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Kazakhstan",
+        "regionId": "17",
+        "countryCode": "KZ",
+        "preferredName": "Kazakhstan",
+        "region": "Middle East"
+    },
+    {
+        "country": "Kenya",
+        "regionId": "5",
+        "countryCode": "KE",
+        "preferredName": "Kenya",
+        "region": "East Africa"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "regionId": "17",
+        "countryCode": "KG",
+        "preferredName": "Kyrgyzstan",
+        "region": "Middle East"
+    },
+    {
+        "country": "Kiribati",
+        "regionId": "16",
+        "countryCode": "KI",
+        "preferredName": "Kiribati",
+        "region": "Australasia"
+    },
+    {
+        "country": "Kuwait",
+        "regionId": "17",
+        "countryCode": "KW",
+        "preferredName": "Kuwait",
+        "region": "Middle East"
+    },
+    {
+        "country": "Hong Kong",
+        "regionId": "9",
+        "countryCode": "HK",
+        "preferredName": "Hong Kong",
+        "region": "East Asia"
+    },
+    {
+        "country": "North Korea",
+        "regionId": "9",
+        "countryCode": "MP",
+        "preferredName": "North Korea",
+        "region": "East Asia"
+    },
+    {
+        "country": "North Korea",
+        "regionId": "9",
+        "countryCode": "KR",
+        "preferredName": "North Korea",
+        "region": "East Asia"
+    },
+    {
+        "country": "South Korea",
+        "regionId": "9",
+        "countryCode": "KP",
+        "preferredName": "South Korea",
+        "region": "East Asia"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "regionId": "11",
+        "countryCode": "KN",
+        "preferredName": "Saint Kitts and Nevis",
+        "region": "Caribbean"
+    },
+    {
+        "country": "United Kingdom|Great Britain|Northern Ireland",
+        "regionId": "1",
+        "countryCode": "GB",
+        "preferredName": "United Kingdom",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Macao|Macau",
+        "regionId": "9",
+        "countryCode": "MO",
+        "preferredName": "Macao",
+        "region": "East Asia"
+    },
+    {
+        "country": "Saint Martin|Sint Maarten",
+        "regionId": "11",
+        "countryCode": "MF",
+        "preferredName": "Saint Martin",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Macedonia",
+        "regionId": "2",
+        "countryCode": "MK",
+        "preferredName": "Macedonia",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Madagascar",
+        "regionId": "5",
+        "countryCode": "MG",
+        "preferredName": "Madagascar",
+        "region": "East Africa"
+    },
+    {
+        "country": "Malawi",
+        "regionId": "5",
+        "countryCode": "MW",
+        "preferredName": "Malawi",
+        "region": "East Africa"
+    },
+    {
+        "country": "Malaysia",
+        "regionId": "8",
+        "countryCode": "MY",
+        "preferredName": "Malaysia",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Maldives",
+        "regionId": "10",
+        "countryCode": "MV",
+        "preferredName": "Maldives",
+        "region": "South Asia"
+    },
+    {
+        "country": "Mali",
+        "regionId": "7",
+        "countryCode": "ML",
+        "preferredName": "Mali",
+        "region": "West Africa"
+    },
+    {
+        "country": "Malta",
+        "regionId": "1",
+        "countryCode": "MT",
+        "preferredName": "Malta",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Martinique",
+        "regionId": "11",
+        "countryCode": "MQ",
+        "preferredName": "Martinique",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Mauritania",
+        "regionId": "7",
+        "countryCode": "MR",
+        "preferredName": "Mauritania",
+        "region": "West Africa"
+    },
+    {
+        "country": "Mauritius",
+        "regionId": "5",
+        "countryCode": "MU",
+        "preferredName": "Mauritius",
+        "region": "East Africa"
+    },
+    {
+        "country": "Mayotte",
+        "regionId": "1",
+        "countryCode": "YT",
+        "preferredName": "Mayotte",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Mexico",
+        "regionId": "13",
+        "countryCode": "MX",
+        "preferredName": "Mexico",
+        "region": "Central America"
+    },
+    {
+        "country": "Micronesia",
+        "regionId": "9",
+        "countryCode": "FM",
+        "preferredName": "Micronesia",
+        "region": "East Asia"
+    },
+    {
+        "country": "Moldavia",
+        "regionId": "2",
+        "countryCode": "MD",
+        "preferredName": "Moldavia",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Monaco",
+        "regionId": "1",
+        "countryCode": "MC",
+        "preferredName": "Monaco",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Mongolia",
+        "regionId": "9",
+        "countryCode": "MN",
+        "preferredName": "Mongolia",
+        "region": "East Asia"
+    },
+    {
+        "country": "Montenegro",
+        "regionId": "2",
+        "countryCode": "ME",
+        "preferredName": "Montenegro",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Montserrat",
+        "regionId": "11",
+        "countryCode": "MS",
+        "preferredName": "Montserrat",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Morocco",
+        "regionId": "4",
+        "countryCode": "MA",
+        "preferredName": "Morocco",
+        "region": "North Africa"
+    },
+    {
+        "country": "Mozambique",
+        "regionId": "5",
+        "countryCode": "MZ",
+        "preferredName": "Mozambique",
+        "region": "East Africa"
+    },
+    {
+        "country": "Myanmar",
+        "regionId": "8",
+        "countryCode": "MM",
+        "preferredName": "Myanmar",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Marshall Islands",
+        "regionId": "9",
+        "countryCode": "MH",
+        "preferredName": "Marshall Islands",
+        "region": "East Asia"
+    },
+    {
+        "country": "San Marino",
+        "regionId": "1",
+        "countryCode": "SM",
+        "preferredName": "San Marino",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Isle of Man",
+        "regionId": "1",
+        "countryCode": "IM",
+        "preferredName": "Isle of Man",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Northern Mariana Islands ",
+        "regionId": "9",
+        "countryCode": "MP� ",
+        "preferredName": "Northern Mariana Islands ",
+        "region": "East Asia"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "regionId": "12",
+        "countryCode": "PM",
+        "preferredName": "Saint Pierre and Miquelon",
+        "region": "North America"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "regionId": "16",
+        "countryCode": "HM",
+        "preferredName": "Heard Island and McDonald Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "regionId": "12",
+        "countryCode": "UM",
+        "preferredName": "United States Minor Outlying Islands",
+        "region": "North America"
+    },
+    {
+        "country": "Oman",
+        "regionId": "17",
+        "countryCode": "OM",
+        "preferredName": "Oman",
+        "region": "Middle East"
+    },
+    {
+        "country": "Isle of Man",
+        "regionId": "1",
+        "countryCode": "IM",
+        "preferredName": "Isle of Man",
+        "region": "Western Europe"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "regionId": "5",
+        "countryCode": "IO",
+        "preferredName": "British Indian Ocean Territory",
+        "region": "East Africa"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "regionId": "12",
+        "countryCode": "UM",
+        "preferredName": "United States Minor Outlying Islands",
+        "region": "North America"
+    },
+    {
+        "country": "Democratic Republic of the Congo|Zaire",
+        "regionId": "3",
+        "countryCode": "CD",
+        "preferredName": "Democratic Republic of the Congo",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Namibia",
+        "regionId": "6",
+        "countryCode": "NA",
+        "preferredName": "Namibia",
+        "region": "Southern Africa"
+    },
+    {
+        "country": "Nauru",
+        "regionId": "8",
+        "countryCode": "NR",
+        "preferredName": "Nauru",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Nepal",
+        "regionId": "8",
+        "countryCode": "NP",
+        "preferredName": "Nepal",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Nicaragua",
+        "regionId": "13",
+        "countryCode": "NI",
+        "preferredName": "Nicaragua",
+        "region": "Central America"
+    },
+    {
+        "country": "Niger",
+        "regionId": "7",
+        "countryCode": "NE",
+        "preferredName": "Niger",
+        "region": "West Africa"
+    },
+    {
+        "country": "Nigeria",
+        "regionId": "7",
+        "countryCode": "NG",
+        "preferredName": "Nigeria",
+        "region": "West Africa"
+    },
+    {
+        "country": "Norway",
+        "regionId": "1",
+        "countryCode": "NO",
+        "preferredName": "Norway",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Netherlands",
+        "regionId": "1",
+        "countryCode": "NL",
+        "preferredName": "Netherlands",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Niue Islands",
+        "regionId": "16",
+        "countryCode": "NU",
+        "preferredName": "Niue Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Norfolk Island",
+        "regionId": "16",
+        "countryCode": "NF",
+        "preferredName": "Norfolk Island",
+        "region": "Australasia"
+    },
+    {
+        "country": "Netherlands Antilles ",
+        "regionId": "11",
+        "countryCode": "AN� ",
+        "preferredName": "Netherlands Antilles ",
+        "region": "Caribbean"
+    },
+    {
+        "country": "North Korea",
+        "regionId": "9",
+        "countryCode": "MP",
+        "preferredName": "North Korea",
+        "region": "East Asia"
+    },
+    {
+        "country": "North Korea",
+        "regionId": "9",
+        "countryCode": "KR",
+        "preferredName": "North Korea",
+        "region": "East Asia"
+    },
+    {
+        "country": "New Caledonia",
+        "regionId": "16",
+        "countryCode": "NC",
+        "preferredName": "New Caledonia",
+        "region": "Australasia"
+    },
+    {
+        "country": "New Zealand",
+        "regionId": "16",
+        "countryCode": "NZ",
+        "preferredName": "New Zealand",
+        "region": "Australasia"
+    },
+    {
+        "country": "Northern Mariana Islands ",
+        "regionId": "9",
+        "countryCode": "MP� ",
+        "preferredName": "Northern Mariana Islands ",
+        "region": "East Asia"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "regionId": "11",
+        "countryCode": "KN",
+        "preferredName": "Saint Kitts and Nevis",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Papua New Guinea",
+        "regionId": "8",
+        "countryCode": "PG",
+        "preferredName": "Papua New Guinea",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "United Kingdom|Great Britain|Northern Ireland",
+        "regionId": "1",
+        "countryCode": "GB",
+        "preferredName": "United Kingdom",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Romania",
+        "regionId": "2",
+        "countryCode": "RO",
+        "preferredName": "Romania",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Rwanda",
+        "regionId": "5",
+        "countryCode": "RW",
+        "preferredName": "Rwanda",
+        "region": "East Africa"
+    },
+    {
+        "country": "Reunion",
+        "regionId": "5",
+        "countryCode": "RE",
+        "preferredName": "Reunion",
+        "region": "East Africa"
+    },
+    {
+        "country": "Costa Rica",
+        "regionId": "13",
+        "countryCode": "CR",
+        "preferredName": "Costa Rica",
+        "region": "Central America"
+    },
+    {
+        "country": "Puerto Rico",
+        "regionId": "11",
+        "countryCode": "PR",
+        "preferredName": "Puerto Rico",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Russian Federation",
+        "regionId": "2",
+        "countryCode": "RU",
+        "preferredName": "Russian Federation",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Dominican Republic",
+        "regionId": "11",
+        "countryCode": "DO",
+        "preferredName": "Dominican Republic",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Central African Republic",
+        "regionId": "3",
+        "countryCode": "CF",
+        "preferredName": "Central African Republic",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Czech Republic|Czechia",
+        "regionId": "2",
+        "countryCode": "CZ",
+        "preferredName": "Czech Republic",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Democratic Republic of the Congo|Zaire",
+        "regionId": "3",
+        "countryCode": "CD",
+        "preferredName": "Democratic Republic of the Congo",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Fiji",
+        "regionId": "16",
+        "countryCode": "FJ",
+        "preferredName": "Fiji",
+        "region": "Australasia"
+    },
+    {
+        "country": "Finland",
+        "regionId": "1",
+        "countryCode": "FI",
+        "preferredName": "Finland",
+        "region": "Western Europe"
+    },
+    {
+        "country": "France",
+        "regionId": "1",
+        "countryCode": "FR",
+        "preferredName": "France",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Burkina-Faso",
+        "regionId": "7",
+        "countryCode": "BF",
+        "preferredName": "Burkina-Faso",
+        "region": "West Africa"
+    },
+    {
+        "country": "Faeroe Islands",
+        "regionId": "1",
+        "countryCode": "FO",
+        "preferredName": "Faeroe Islands",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Falkland Islnds",
+        "regionId": "15",
+        "countryCode": "FK",
+        "preferredName": "Falkland Islnds",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Russian Federation",
+        "regionId": "2",
+        "countryCode": "RU",
+        "preferredName": "Russian Federation",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Wallis - Futuna",
+        "regionId": "16",
+        "countryCode": "WF",
+        "preferredName": "Wallis - Futuna",
+        "region": "Australasia"
+    },
+    {
+        "country": "French Polynesia",
+        "regionId": "16",
+        "countryCode": "PF",
+        "preferredName": "French Polynesia",
+        "region": "Australasia"
+    },
+    {
+        "country": "French Guinea",
+        "regionId": "15",
+        "countryCode": "GF",
+        "preferredName": "French Guinea",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "French Southern Territories",
+        "regionId": "5",
+        "countryCode": "TF",
+        "preferredName": "French Southern Territories",
+        "region": "East Africa"
+    },
+    {
+        "country": "Qatar",
+        "regionId": "17",
+        "countryCode": "QA",
+        "preferredName": "Qatar",
+        "region": "Middle East"
+    },
+    {
+        "country": "Iceland",
+        "regionId": "1",
+        "countryCode": "IS",
+        "preferredName": "Iceland",
+        "region": "Western Europe"
+    },
+    {
+        "country": "India",
+        "regionId": "10",
+        "countryCode": "IN",
+        "preferredName": "India",
+        "region": "South Asia"
+    },
+    {
+        "country": "Indonesia",
+        "regionId": "8",
+        "countryCode": "ID",
+        "preferredName": "Indonesia",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Iran",
+        "regionId": "17",
+        "countryCode": "IR",
+        "preferredName": "Iran",
+        "region": "Middle East"
+    },
+    {
+        "country": "Iraq",
+        "regionId": "17",
+        "countryCode": "IQ",
+        "preferredName": "Iraq",
+        "region": "Middle East"
+    },
+    {
+        "country": "Israel",
+        "regionId": "17",
+        "countryCode": "IL",
+        "preferredName": "Israel",
+        "region": "Middle East"
+    },
+    {
+        "country": "Italy",
+        "regionId": "1",
+        "countryCode": "IT",
+        "preferredName": "Italy",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Ireland",
+        "regionId": "1",
+        "countryCode": "IE",
+        "preferredName": "Ireland",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Falkland Islnds",
+        "regionId": "15",
+        "countryCode": "FK",
+        "preferredName": "Falkland Islnds",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Ivory Coast",
+        "regionId": "7",
+        "countryCode": "CI ",
+        "preferredName": "Ivory Coast",
+        "region": "West Africa"
+    },
+    {
+        "country": "Isle of Man",
+        "regionId": "1",
+        "countryCode": "IM",
+        "preferredName": "Isle of Man",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Bouvet Island",
+        "regionId": "1",
+        "countryCode": "BV",
+        "preferredName": "Bouvet Island",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Christmas Island",
+        "regionId": "16",
+        "countryCode": "CX",
+        "preferredName": "Christmas Island",
+        "region": "Australasia"
+    },
+    {
+        "country": "Norfolk Island",
+        "regionId": "16",
+        "countryCode": "NF",
+        "preferredName": "Norfolk Island",
+        "region": "Australasia"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "regionId": "16",
+        "countryCode": "HM",
+        "preferredName": "Heard Island and McDonald Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "regionId": "5",
+        "countryCode": "IO",
+        "preferredName": "British Indian Ocean Territory",
+        "region": "East Africa"
+    },
+    {
+        "country": "Aland Islands",
+        "regionId": "1",
+        "countryCode": "AX",
+        "preferredName": "Aland Islands",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Cayman Islands",
+        "regionId": "11",
+        "countryCode": "KY",
+        "preferredName": "Cayman Islands",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Coconut Islands",
+        "regionId": "16",
+        "countryCode": "CC",
+        "preferredName": "Coconut Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Cook Islands",
+        "regionId": "16",
+        "countryCode": "CK",
+        "preferredName": "Cook Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Faeroe Islands",
+        "regionId": "1",
+        "countryCode": "FO",
+        "preferredName": "Faeroe Islands",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Marshall Islands",
+        "regionId": "9",
+        "countryCode": "MH",
+        "preferredName": "Marshall Islands",
+        "region": "East Asia"
+    },
+    {
+        "country": "Niue Islands",
+        "regionId": "16",
+        "countryCode": "NU",
+        "preferredName": "Niue Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Pacific Islands",
+        "regionId": "16",
+        "countryCode": "PC",
+        "preferredName": "Pacific Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Pitcairn Islands",
+        "regionId": "16",
+        "countryCode": "PN",
+        "preferredName": "Pitcairn Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Solomon Islands",
+        "regionId": "8",
+        "countryCode": "SB",
+        "preferredName": "Solomon Islands",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Tokelau Islands",
+        "regionId": "16",
+        "countryCode": "TK",
+        "preferredName": "Tokelau Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "United Kingdom|Great Britain|Northern Ireland",
+        "regionId": "1",
+        "countryCode": "GB",
+        "preferredName": "United Kingdom",
+        "region": "Western Europe"
+    },
+    {
+        "country": "American Virgin Islands",
+        "regionId": "14",
+        "countryCode": "VI",
+        "preferredName": "American Virgin Islands",
+        "region": "South America (trop)"
+    },
+    {
+        "country": "British Virgin Islands",
+        "regionId": "11",
+        "countryCode": "VG",
+        "preferredName": "British Virgin Islands",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Northern Mariana Islands ",
+        "regionId": "9",
+        "countryCode": "MP� ",
+        "preferredName": "Northern Mariana Islands ",
+        "region": "East Asia"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands|South Sandwich Islands",
+        "regionId": "15",
+        "countryCode": "GS",
+        "preferredName": "South Georgia and the South Sandwich Islands",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "regionId": "12",
+        "countryCode": "UM",
+        "preferredName": "United States Minor Outlying Islands",
+        "region": "North America"
+    },
+    {
+        "country": "Jamaica",
+        "regionId": "11",
+        "countryCode": "JM",
+        "preferredName": "Jamaica",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Japan",
+        "regionId": "9",
+        "countryCode": "JP",
+        "preferredName": "Japan",
+        "region": "East Asia"
+    },
+    {
+        "country": "Jersey",
+        "regionId": "1",
+        "countryCode": "JE",
+        "preferredName": "Jersey",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Jordan",
+        "regionId": "17",
+        "countryCode": "JO",
+        "preferredName": "Jordan",
+        "region": "Middle East"
+    },
+    {
+        "country": "South Sudan",
+        "regionId": "4",
+        "countryCode": "SS",
+        "preferredName": "South Sudan",
+        "region": "North Africa"
+    },
+    {
+        "country": "Senegal",
+        "regionId": "7",
+        "countryCode": "SN",
+        "preferredName": "Senegal",
+        "region": "West Africa"
+    },
+    {
+        "country": "Serbia",
+        "regionId": "2",
+        "countryCode": "RS",
+        "preferredName": "Serbia",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Seychelles",
+        "regionId": "5",
+        "countryCode": "SC",
+        "preferredName": "Seychelles",
+        "region": "East Africa"
+    },
+    {
+        "country": "Singapore",
+        "regionId": "8",
+        "countryCode": "SG",
+        "preferredName": "Singapore",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Slovakia",
+        "regionId": "2",
+        "countryCode": "SK",
+        "preferredName": "Slovakia",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Slovenia",
+        "regionId": "2",
+        "countryCode": "SI",
+        "preferredName": "Slovenia",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Somalia",
+        "regionId": "5",
+        "countryCode": "SO",
+        "preferredName": "Somalia",
+        "region": "East Africa"
+    },
+    {
+        "country": "Spain",
+        "regionId": "1",
+        "countryCode": "ES",
+        "preferredName": "Spain",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Suriname",
+        "regionId": "15",
+        "countryCode": "SR",
+        "preferredName": "Suriname",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Svalbard",
+        "regionId": "1",
+        "countryCode": "SJ",
+        "preferredName": "Svalbard",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Sweden",
+        "regionId": "1",
+        "countryCode": "SE",
+        "preferredName": "Sweden",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Switzerland",
+        "regionId": "1",
+        "countryCode": "CH",
+        "preferredName": "Switzerland",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Syria",
+        "regionId": "17",
+        "countryCode": "SY",
+        "preferredName": "Syria",
+        "region": "Middle East"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands|South Sandwich Islands",
+        "regionId": "15",
+        "countryCode": "GS",
+        "preferredName": "South Georgia and the South Sandwich Islands",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Samoa",
+        "regionId": "16",
+        "countryCode": "WS",
+        "preferredName": "Samoa",
+        "region": "Australasia"
+    },
+    {
+        "country": "Sudan",
+        "regionId": "4",
+        "countryCode": "SD",
+        "preferredName": "Sudan",
+        "region": "North Africa"
+    },
+    {
+        "country": "Saint Martin|Sint Maarten",
+        "regionId": "11",
+        "countryCode": "MF",
+        "preferredName": "Saint Martin",
+        "region": "Caribbean"
+    },
+    {
+        "country": "El Salvador",
+        "regionId": "13",
+        "countryCode": "SV",
+        "preferredName": "El Salvador",
+        "region": "Central America"
+    },
+    {
+        "country": "Eswatini|Swaziland",
+        "regionId": "6",
+        "countryCode": "SZ",
+        "preferredName": "Eswatini",
+        "region": "Southern Africa"
+    },
+    {
+        "country": "San Marino",
+        "regionId": "1",
+        "countryCode": "SM",
+        "preferredName": "San Marino",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Saudi Arabia",
+        "regionId": "17",
+        "countryCode": "SA",
+        "preferredName": "Saudi Arabia",
+        "region": "Middle East"
+    },
+    {
+        "country": "Sierra Leone",
+        "regionId": "7",
+        "countryCode": "SL",
+        "preferredName": "Sierra Leone",
+        "region": "West Africa"
+    },
+    {
+        "country": "Solomon Islands",
+        "regionId": "8",
+        "countryCode": "SB",
+        "preferredName": "Solomon Islands",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Sri Lanka",
+        "regionId": "10",
+        "countryCode": "LK",
+        "preferredName": "Sri Lanka",
+        "region": "South Asia"
+    },
+    {
+        "country": "West Sahara",
+        "regionId": "4",
+        "countryCode": "EH",
+        "preferredName": "West Sahara",
+        "region": "North Africa"
+    },
+    {
+        "country": "American Samoa",
+        "regionId": "16",
+        "countryCode": "AS",
+        "preferredName": "American Samoa",
+        "region": "Australasia"
+    },
+    {
+        "country": "United States",
+        "regionId": "12",
+        "countryCode": "US",
+        "preferredName": "United States",
+        "region": "North America"
+    },
+    {
+        "country": "French Southern Territories",
+        "regionId": "5",
+        "countryCode": "TF",
+        "preferredName": "French Southern Territories",
+        "region": "East Africa"
+    },
+    {
+        "country": "South Africa",
+        "regionId": "6",
+        "countryCode": "ZA",
+        "preferredName": "South Africa",
+        "region": "Southern Africa"
+    },
+    {
+        "country": "South Korea",
+        "regionId": "9",
+        "countryCode": "KP",
+        "preferredName": "South Korea",
+        "region": "East Asia"
+    },
+    {
+        "country": "Saint Barthelemy",
+        "regionId": "11",
+        "countryCode": "BL",
+        "preferredName": "Saint Barthelemy",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Saint Lucia",
+        "regionId": "11",
+        "countryCode": "LC",
+        "preferredName": "Saint Lucia",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Holy See|Vatican City",
+        "regionId": "1",
+        "countryCode": "VA",
+        "preferredName": "Holy See",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "regionId": "3",
+        "countryCode": "ST",
+        "preferredName": "Sao Tome and Principe",
+        "region": "Central Africa"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "regionId": "12",
+        "countryCode": "UM",
+        "preferredName": "United States Minor Outlying Islands",
+        "region": "North America"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "regionId": "11",
+        "countryCode": "KN",
+        "preferredName": "Saint Kitts and Nevis",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "regionId": "12",
+        "countryCode": "PM",
+        "preferredName": "Saint Pierre and Miquelon",
+        "region": "North America"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "regionId": "11",
+        "countryCode": "VC",
+        "preferredName": "Saint Vincent and the Grenadines",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "regionId": "7",
+        "countryCode": "SH",
+        "preferredName": "Saint Helena, Ascension and Tristan da Cunha",
+        "region": "West Africa"
+    },
+    {
+        "country": "Laos",
+        "regionId": "8",
+        "countryCode": "LA",
+        "preferredName": "Laos",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Latvia",
+        "regionId": "2",
+        "countryCode": "LV",
+        "preferredName": "Latvia",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Lebanon",
+        "regionId": "17",
+        "countryCode": "LB",
+        "preferredName": "Lebanon",
+        "region": "Middle East"
+    },
+    {
+        "country": "Lesotho",
+        "regionId": "6",
+        "countryCode": "LS",
+        "preferredName": "Lesotho",
+        "region": "Southern Africa"
+    },
+    {
+        "country": "Liberia",
+        "regionId": "7",
+        "countryCode": "LR",
+        "preferredName": "Liberia",
+        "region": "West Africa"
+    },
+    {
+        "country": "Libya",
+        "regionId": "4",
+        "countryCode": "LY",
+        "preferredName": "Libya",
+        "region": "North Africa"
+    },
+    {
+        "country": "Liechtenstein",
+        "regionId": "1",
+        "countryCode": "LI",
+        "preferredName": "Liechtenstein",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Lithuania",
+        "regionId": "2",
+        "countryCode": "LT",
+        "preferredName": "Lithuania",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Luxembourg",
+        "regionId": "1",
+        "countryCode": "LU",
+        "preferredName": "Luxembourg",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Saint Lucia",
+        "regionId": "11",
+        "countryCode": "LC",
+        "preferredName": "Saint Lucia",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Sierra Leone",
+        "regionId": "7",
+        "countryCode": "SL",
+        "preferredName": "Sierra Leone",
+        "region": "West Africa"
+    },
+    {
+        "country": "Sri Lanka",
+        "regionId": "10",
+        "countryCode": "LK",
+        "preferredName": "Sri Lanka",
+        "region": "South Asia"
+    },
+    {
+        "country": "Timor-Leste|East Timor",
+        "regionId": "8",
+        "countryCode": "TL",
+        "preferredName": "Timor-Leste",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Pakistan",
+        "regionId": "10",
+        "countryCode": "PK",
+        "preferredName": "Pakistan",
+        "region": "South Asia"
+    },
+    {
+        "country": "Palau",
+        "regionId": "9",
+        "countryCode": "PW",
+        "preferredName": "Palau",
+        "region": "East Asia"
+    },
+    {
+        "country": "Palestine",
+        "regionId": "17",
+        "countryCode": "PS",
+        "preferredName": "Palestine",
+        "region": "Middle East"
+    },
+    {
+        "country": "Panama",
+        "regionId": "13",
+        "countryCode": "PA",
+        "preferredName": "Panama",
+        "region": "Central America"
+    },
+    {
+        "country": "Paraguay",
+        "regionId": "15",
+        "countryCode": "PY",
+        "preferredName": "Paraguay",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Peru",
+        "regionId": "15",
+        "countryCode": "PE",
+        "preferredName": "Peru",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Philippines",
+        "regionId": "8",
+        "countryCode": "PH",
+        "preferredName": "Philippines",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Poland",
+        "regionId": "2",
+        "countryCode": "PL",
+        "preferredName": "Poland",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Portugal",
+        "regionId": "1",
+        "countryCode": "PT",
+        "preferredName": "Portugal",
+        "region": "Western Europe"
+    },
+    {
+        "country": "French Polynesia",
+        "regionId": "16",
+        "countryCode": "PF",
+        "preferredName": "French Polynesia",
+        "region": "Australasia"
+    },
+    {
+        "country": "Pacific Islands",
+        "regionId": "16",
+        "countryCode": "PC",
+        "preferredName": "Pacific Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Pitcairn Islands",
+        "regionId": "16",
+        "countryCode": "PN",
+        "preferredName": "Pitcairn Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Puerto Rico",
+        "regionId": "11",
+        "countryCode": "PR",
+        "preferredName": "Puerto Rico",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Papua New Guinea",
+        "regionId": "8",
+        "countryCode": "PG",
+        "preferredName": "Papua New Guinea",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "regionId": "3",
+        "countryCode": "ST",
+        "preferredName": "Sao Tome and Principe",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "regionId": "12",
+        "countryCode": "PM",
+        "preferredName": "Saint Pierre and Miquelon",
+        "region": "North America"
+    },
+    {
+        "country": "Tajikistan|Tadzhikistan",
+        "regionId": "17",
+        "countryCode": "TJ",
+        "preferredName": "Tajikistan",
+        "region": "Middle East"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "regionId": "11",
+        "countryCode": "TT",
+        "preferredName": "Trinidad and Tobago",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Taiwan",
+        "regionId": "8",
+        "countryCode": "TW",
+        "preferredName": "Taiwan",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Tanzania",
+        "regionId": "5",
+        "countryCode": "TZ",
+        "preferredName": "Tanzania",
+        "region": "East Africa"
+    },
+    {
+        "country": "Thailand",
+        "regionId": "8",
+        "countryCode": "TH",
+        "preferredName": "Thailand",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Togo",
+        "regionId": "7",
+        "countryCode": "TG",
+        "preferredName": "Togo",
+        "region": "West Africa"
+    },
+    {
+        "country": "Tonga",
+        "regionId": "16",
+        "countryCode": "TO",
+        "preferredName": "Tonga",
+        "region": "Australasia"
+    },
+    {
+        "country": "Tunisia",
+        "regionId": "4",
+        "countryCode": "TN",
+        "preferredName": "Tunisia",
+        "region": "North Africa"
+    },
+    {
+        "country": "Turkey",
+        "regionId": "17",
+        "countryCode": "TR",
+        "preferredName": "Turkey",
+        "region": "Middle East"
+    },
+    {
+        "country": "Turkmenistan",
+        "regionId": "17",
+        "countryCode": "TM",
+        "preferredName": "Turkmenistan",
+        "region": "Middle East"
+    },
+    {
+        "country": "Tuvalu",
+        "regionId": "16",
+        "countryCode": "TV",
+        "preferredName": "Tuvalu",
+        "region": "Australasia"
+    },
+    {
+        "country": "Tokelau Islands",
+        "regionId": "16",
+        "countryCode": "TK",
+        "preferredName": "Tokelau Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Timor-Leste|East Timor",
+        "regionId": "8",
+        "countryCode": "TL",
+        "preferredName": "Timor-Leste",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "East Timor",
+        "regionId": "8",
+        "countryCode": "TL",
+        "preferredName": "East Timor",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "French Southern Territories",
+        "regionId": "5",
+        "countryCode": "TF",
+        "preferredName": "French Southern Territories",
+        "region": "East Africa"
+    },
+    {
+        "country": "Turks and Caicos",
+        "regionId": "11",
+        "countryCode": "TC",
+        "preferredName": "Turks and Caicos",
+        "region": "Caribbean"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "regionId": "5",
+        "countryCode": "IO",
+        "preferredName": "British Indian Ocean Territory",
+        "region": "East Africa"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "regionId": "3",
+        "countryCode": "ST",
+        "preferredName": "Sao Tome and Principe",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "regionId": "11",
+        "countryCode": "VC",
+        "preferredName": "Saint Vincent and the Grenadines",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "regionId": "7",
+        "countryCode": "SH",
+        "preferredName": "Saint Helena, Ascension and Tristan da Cunha",
+        "region": "West Africa"
+    },
+    {
+        "country": "Democratic Republic of the Congo|Zaire",
+        "regionId": "3",
+        "countryCode": "CD",
+        "preferredName": "Democratic Republic of the Congo",
+        "region": "Central Africa"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands|South Sandwich Islands",
+        "regionId": "15",
+        "countryCode": "GS",
+        "preferredName": "South Georgia and the South Sandwich Islands",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Vanuatu",
+        "regionId": "16",
+        "countryCode": "VU",
+        "preferredName": "Vanuatu",
+        "region": "Australasia"
+    },
+    {
+        "country": "Venezuela",
+        "regionId": "15",
+        "countryCode": "VE",
+        "preferredName": "Venezuela",
+        "region": "South America (temp)"
+    },
+    {
+        "country": "Vietnam",
+        "regionId": "8",
+        "countryCode": "VN",
+        "preferredName": "Vietnam",
+        "region": "Southeast Asia"
+    },
+    {
+        "country": "Cape Verde|Cabo Verde",
+        "regionId": "7",
+        "countryCode": "CV",
+        "preferredName": "Cape Verde",
+        "region": "West Africa"
+    },
+    {
+        "country": "American Virgin Islands",
+        "regionId": "14",
+        "countryCode": "VI",
+        "preferredName": "American Virgin Islands",
+        "region": "South America (trop)"
+    },
+    {
+        "country": "British Virgin Islands",
+        "regionId": "11",
+        "countryCode": "VG",
+        "preferredName": "British Virgin Islands",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Holy See|Vatican City",
+        "regionId": "1",
+        "countryCode": "VA",
+        "preferredName": "Holy See",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "regionId": "11",
+        "countryCode": "VC",
+        "preferredName": "Saint Vincent and the Grenadines",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Zambia",
+        "regionId": "5",
+        "countryCode": "ZM",
+        "preferredName": "Zambia",
+        "region": "East Africa"
+    },
+    {
+        "country": "Zimbabwe",
+        "regionId": "5",
+        "countryCode": "ZW",
+        "preferredName": "Zimbabwe",
+        "region": "East Africa"
+    },
+    {
+        "country": "New Zealand",
+        "regionId": "16",
+        "countryCode": "NZ",
+        "preferredName": "New Zealand",
+        "region": "Australasia"
+    },
+    {
+        "country": "Democratic Republic of the Congo|Zaire",
+        "regionId": "3",
+        "countryCode": "CD",
+        "preferredName": "Democratic Republic of the Congo",
+        "region": "Central Africa"
+    },
+    {
+        "country": "Uganda",
+        "regionId": "5",
+        "countryCode": "UG",
+        "preferredName": "Uganda",
+        "region": "East Africa"
+    },
+    {
+        "country": "Ukraine",
+        "regionId": "2",
+        "countryCode": "UA",
+        "preferredName": "Ukraine",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Uruguay",
+        "regionId": "14",
+        "countryCode": "UY",
+        "preferredName": "Uruguay",
+        "region": "South America (trop)"
+    },
+    {
+        "country": "Uzbekistan",
+        "regionId": "17",
+        "countryCode": "UZ",
+        "preferredName": "Uzbekistan",
+        "region": "Middle East"
+    },
+    {
+        "country": "United States",
+        "regionId": "12",
+        "countryCode": "US",
+        "preferredName": "United States",
+        "region": "North America"
+    },
+    {
+        "country": "United Arab Emirates",
+        "regionId": "17",
+        "countryCode": "AE",
+        "preferredName": "United Arab Emirates",
+        "region": "Middle East"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "regionId": "12",
+        "countryCode": "UM",
+        "preferredName": "United States Minor Outlying Islands",
+        "region": "North America"
+    },
+    {
+        "country": "United Kingdom|Great Britain|Northern Ireland",
+        "regionId": "1",
+        "countryCode": "GB",
+        "preferredName": "United Kingdom",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Haiti",
+        "regionId": "11",
+        "countryCode": "HT",
+        "preferredName": "Haiti",
+        "region": "Caribbean"
+    },
+    {
+        "country": "Honduras",
+        "regionId": "13",
+        "countryCode": "HN",
+        "preferredName": "Honduras",
+        "region": "Central America"
+    },
+    {
+        "country": "Hungary",
+        "regionId": "2",
+        "countryCode": "HU",
+        "preferredName": "Hungary",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Hong Kong",
+        "regionId": "9",
+        "countryCode": "HK",
+        "preferredName": "Hong Kong",
+        "region": "East Asia"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "regionId": "2",
+        "countryCode": "BA",
+        "preferredName": "Bosnia and Herzegovina",
+        "region": "Eastern Europe"
+    },
+    {
+        "country": "Holy See|Vatican City",
+        "regionId": "1",
+        "countryCode": "VA",
+        "preferredName": "Holy See",
+        "region": "Western Europe"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "regionId": "16",
+        "countryCode": "HM",
+        "preferredName": "Heard Island and McDonald Islands",
+        "region": "Australasia"
+    },
+    {
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "regionId": "7",
+        "countryCode": "SH",
+        "preferredName": "Saint Helena, Ascension and Tristan da Cunha",
+        "region": "West Africa"
+    },
+    {
+        "country": "Wallis - Futuna",
+        "regionId": "16",
+        "countryCode": "WF",
+        "preferredName": "Wallis - Futuna",
+        "region": "Australasia"
+    },
+    {
+        "country": "West Sahara",
+        "regionId": "4",
+        "countryCode": "EH",
+        "preferredName": "West Sahara",
+        "region": "North Africa"
+    },
+    {
+        "country": "Yemen",
+        "regionId": "17",
+        "countryCode": "YE",
+        "preferredName": "Yemen",
+        "region": "Middle East"
+    }
+]
