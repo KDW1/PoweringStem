@@ -10,22 +10,32 @@
     <h2>From Medifind API, shown at medifind.com/symptom-checker, the survey shown is an example of what a symptom survey could look like</h2>
     <h1>Symtpoms:</h1>
     <form action="/diagnosis" method="post">
-        <input type="search" name="" id="symptomSearch">
-        <p id="chips"></p>
+        <input type="search" name="" id="symptomSearch"> <br>
+        <input name="symptoms" id="symptomChips" readonly type="text">
         <h3>Autocomplete...</h3>
         <ul id="symptoms">
     
         </ul>
+        <h1>Health Conditions</h1>
+        <input type="search" name="" id="conditionSearch"> <br>
+        <input name="otherHealthInfo" id="conditionChips" readonly type="text">
+        <h3>Autocomplete...</h3>
+        <ul id="conditions">
+    
+        </ul>
         <h2>Gender:</h2>
-        <input type="radio" name="sex" id="" value="male" required>
+        <input type="radio" name="sex" id="" value="m" required>
         <label for="male">Male</label>
         <br>
-        <input type="radio" name="sex" id="" value="female" required>
+        <input type="radio" name="sex" id="" value="f" required>
         <label for="male">Female</label>
         <h1>Country:</h1>
-        <input type="text" name="country">
+        <select name="regionId" id="countries" required>
+
+        </select>
         <h2>Age</h2>
-        <select name="dob">
+        <select name="dob" required>
+            <option value="" aria-readonly="true">Please Select an Age</option>
             <option value=1>0 - 28 days</option>
             <option value=2>29 days - 1 year</option>
             <option value=3>1 - 5 years</option>
@@ -37,34 +47,137 @@
             <option value=9>50 - 64 years</option>
             <option value=10>65 + years</option>
           </select>
+          <br>
+          <button type="submit">Submit</button>
     </form>
+    <% if(locals.url) { %>
+        <h1>Diagnosis</h1>
+        <hr>
+        <div id="list">
+            <div style="margin-top: 12px;">
+                <h2>Disease</h2>
+                <h4>Is Red Flag: False</h4>
+                <h4>SPECIALITY: Doctor Type</h4>
+                <hr>
+            </div>
+        </div>
+        <script>
+            let url = `<%=locals.url%>`;
+            url = url.replaceAll('&amp;', '&');
+            console.log(url);
+            async function renderDiagnostics() {
+                let response = await fetch(url);
+                let data = await response.json();
+                console.log(data);
+                data.highlyLikely.forEach((elem) => {
+                    console.log(elem)
+                    let addition = diagnosisCard(elem);
+                    $('#list').append(addition);
+                });
+            }
+            function diagnosisCard(elem) {
+                let returnVal = "<%-include('diagnosisCard', JSON.parse(`${JSON.stringify(elem)}`))%>";
+            }
+            renderDiagnostics()
+        </script>
+    <% }%> 
     <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
     <script>
+
+        function symptomClicked(elem) {
+            addSymptom(elem.innerHTML, "symptom");
+            $("#symptoms").empty();
+            console.log(elem.innerHTML);
+        }
+
+        function conditionClicked(elem) {
+            addSymptom(elem.innerHTML, "condition");
+            $("#conditions").empty();
+            console.log(elem.innerHTML);
+        }
+
+        function addSymptom(value, prefix) {
+                console.log('Entered: ' + value);
+                let text = $(`#${prefix}Chips`).val();
+                text = text.split(',');
+                if(!text.includes(value)) {
+                    text.unshift(value);
+                } else {
+                    alert('Already added that! >:(');
+                }
+                let indexOfNone = text.findIndex(tex => tex.length == 0);
+                console.log("Index of None: " + indexOfNone);
+                if(indexOfNone != -1) {
+                    text.splice(text.findIndex((data) => {data==''}), 1);
+                }
+                console.log('Text:');
+                console.log(text);
+                $(`#${prefix}Chips`).val(text.join(', '));
+                $(`#${prefix}Search`).val('');
+                $(`#${prefix}s`).empty();
+        }
+
+        async function populateSelect() {
+            let data = await fetch("/public/countryList.json");
+            data = await data.json();
+            console.log(data);
+            $('#countries').prepend(`<option value=''>Choose a Country...</option> `);
+            data.forEach((country) => {
+                $('#countries').append(`<option value=${country.regionId}>${country.country}</option> `);
+            })
+
+        }
+
+        populateSelect();
+
+
         $('#symptomSearch').keyup(async (e) => {
+            $("#symptoms").empty();
             let keyVal = $('#symptomSearch').val();
             console.log(keyVal);
             if((e.keycode || e.which) == '13') {
-                console.log('Entered: ' + keyVal);
-                let text = $('p#chips').text();
-                text = text.split(',');
-                text.unshift(keyVal);
-                console.log('Text:');
-                console.log(text);
-                $('p#chips').text(text.join(','));
-                $('#symptomSearch').val('');
-                $("#symptoms").empty();
+                addSymptom(keyVal, "symptom");
             }
             keyVal = $('#symptomSearch').val();
             if(keyVal.length > 2) {
-                $("#symptoms").empty();
+                console.log("Valid Input: \n\n");
                 let suggestions = await fetch('https://www.medifind.com/api/autocomplete/symptom?input=' + keyVal).then((res) => {return res.json()});
                 let relevant = suggestions.slice(0, 8);
                 relevant.forEach((data) => {
-                    $('#symptoms').append(`<li>${data}</li>`)
+                    $('#symptoms').append(`<li onclick='symptomClicked(this)'>${data}</li>`)
                 })
                 return
             }
         })
+
+        $('#conditionSearch').keyup(async (e) => {
+            $("#conditions").empty();
+            let keyVal = $('#conditionSearch').val();
+            console.log(keyVal);
+            if((e.keycode || e.which) == '13') {
+                addSymptom(keyVal, "condition");
+            }
+            keyVal = $('#conditionSearch').val();
+            if(keyVal.length > 2) {
+                console.log("Valid Input: \n\n");
+                let suggestions = await fetch('https://www.medifind.com/api/autocomplete/symptom?input=' + keyVal).then((res) => {return res.json()});
+                let relevant = suggestions.slice(0, 8);
+                relevant.forEach((data) => {
+                    $('#conditions').append(`<li onclick='conditionClicked(this)'>${data}</li>`)
+                })
+                return
+            }
+        })
+
+        //From StackOverflow, prevents 'enter' key going to next input
+        $(document).ready(function() {
+        $(window).keydown(function(event){
+            if(event.keyCode == 13) {
+            event.preventDefault();
+            return false;
+            }
+        });
+        });
     </script>
 </body>
 </html>
